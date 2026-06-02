@@ -1,0 +1,14 @@
+# Kernel build artifacts
+*.o
+*.ko
+*.ko.*
+*.mod
+*.mod.c
+*.cmd
+.*.cmd
+*.o.*
+.tmp_versions/
+modules.order
+Module.symvers
+# Install log
+aic8800d80_install.log
