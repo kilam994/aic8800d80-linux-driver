@@ -20,7 +20,7 @@ forget about it.
 ## Quick install
 
 ```bash
-git clone <this-repo-url> aic8800d80-linux-driver
+git clone https://github.com/kilam994/aic8800d80-linux-driver.git aic8800d80-linux-driver
 cd aic8800d80-linux-driver
 sudo ./install.sh
 ```
